@@ -1,0 +1,11 @@
+.entry-button {
+  background-color: rgb(87, 179, 233);
+  width: 300px;
+  font-size: 20px;
+  font-weight: 700;
+  border: solid 3px rgb(62, 123, 138);
+}
+.entry-button:hover {
+  background-color: rgb(102, 191, 243);
+  border-color: rgb(151, 207, 240);
+}
